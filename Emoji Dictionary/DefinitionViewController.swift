@@ -70,7 +70,7 @@ class DefinitionViewController: UIViewController {
         }
         
         if emoji == "🏒" {
-            definitionLabel.text = "Hockey1!"
+            definitionLabel.text = "Hockey!"
         }
     }
     
