@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Emoji Dictionary
 //
-//  Created by Laura Chrest on 12/30/18.
+//  Created by Dan Chrest on 12/30/18.
 //  Copyright © 2018 Dan Chrest. All rights reserved.
 //
 
