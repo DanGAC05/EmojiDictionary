@@ -26,15 +26,15 @@ class DefinitionViewController: UIViewController {
         
         
         if emoji == "😀" {
-        definitionLabel.text = "A Smiley Face"
+        definitionLabel.text = "Not your best choice"
         }
         
         if emoji == "😂" {
-            definitionLabel.text = "Cying Laughing"
+            definitionLabel.text = "Shits and Giggles"
         }
         
         if emoji == "☹️" {
-            definitionLabel.text = "Frowny Face"
+            definitionLabel.text = "Be more creative, you have so many options"
         }
         
         if emoji == "😱" {
@@ -42,7 +42,7 @@ class DefinitionViewController: UIViewController {
         }
         
         if emoji == "💩" {
-            definitionLabel.text = "POOP!!"
+            definitionLabel.text = "Oops, I crapped my pants!!"
         }
         
         if emoji == "✌️" {
@@ -50,15 +50,15 @@ class DefinitionViewController: UIViewController {
         }
         
         if emoji == "👍" {
-            definitionLabel.text = "Thumps up"
+            definitionLabel.text = "Canada, eh!"
         }
         
         if emoji == "🤮" {
-            definitionLabel.text = "Barf"
+            definitionLabel.text = "Brown Tequila"
         }
         
         if emoji == "🤫" {
-            definitionLabel.text = "Shhhhhh!!"
+            definitionLabel.text = "Shhhhhh...JJ sleeping!!"
         }
         
         if emoji == "😎" {
@@ -66,7 +66,7 @@ class DefinitionViewController: UIViewController {
         }
         
         if emoji == "🐬" {
-            definitionLabel.text = "Awesome Dolphin"
+            definitionLabel.text = "Sharks are better!"
         }
         
         if emoji == "🏒" {
